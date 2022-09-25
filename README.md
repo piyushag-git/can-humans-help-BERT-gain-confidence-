@@ -1,4 +1,4 @@
-### Can humans help BERT gain confidence?
+### Can humans help BERT gain "confidence"?
 
 The advancements in artificial intelligence over the last decade have opened a multitude of
 avenues for interdisciplinary research. Since the idea of artificial intelligence was inspired by the
