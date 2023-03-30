@@ -14,4 +14,5 @@ Further, I analyze the internal working mechanism of BERT and explore a potentia
 model explainability by correlating it with a popular model agnostic explainability framework
 called LIME (Ribeiro et al., 2016). Finally, I discuss the possible directions to take this research
 forward.
-Please open an issue to get access to the thesis.
+
+###Please open an issue to get access to the thesis.
